@@ -1,3 +1,5 @@
+AI-PERSONALITY-STUDY-ANALYZER
+
 ##📌Problem Statement
 
 Many Students struggle to understand their personality and study stlye, leading to low productivity and ineffective learing methoods.
